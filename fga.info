@@ -1,0 +1,7 @@
+core = "7.x"
+description = "FGA is a federated social network for the Occupy movement; each FGA Drupal instance acts as a node in the network."
+distribution_name = "Federated General Assembly"
+hidden = FALSE
+name = "Federated General Assembly"
+php = "5.2.4"
+required = TRUE
